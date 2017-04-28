@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Spinner Demo</string>
+    <string-array name="berry_names">
+        <item>Strawberry</item>
+        <item>Raspberry</item>
+        <item>Mulberry</item>
+        <item>Blueberry</item>
+        <item>Blackberry</item>
+        <item>Cranberry</item>
+        <item>Gooseberry</item>
+        <item>Huckleberry</item>
+
+    </string-array>
+</resources>
